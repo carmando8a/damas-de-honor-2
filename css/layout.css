@@ -375,11 +375,6 @@
     opacity: 1;
 }
 
-.av_minimal_header #header_main,
-.av_minimal_header #header_meta {
-    border: none;
-}
-
 .av_minimal_header .avia-menu-fx {
     display: none;
 }
