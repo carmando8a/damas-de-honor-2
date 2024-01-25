@@ -203,8 +203,8 @@ body .avia-tooltip {
 .socket_color.avia-fullwidth-portfolio .pagination a,
 .socket_color .av-hotspot-fallback-tooltip-inner,
 .socket_color .av-hotspot-fallback-tooltip-count {
-    background-color: #ffffff;
-    color: #b0b0b0;
+    background-color: rgb(228, 154, 154);
+    color: white;
 }
 .socket_color .avia-fold-unfold-section .av-fold-unfold-container::after {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
@@ -328,7 +328,7 @@ body .avia-tooltip {
 #top .socket_color .av-no-color.av-icon-style-border a.av-icon-char,
 .html_elegant-blog #top .socket_color .blog-categories a,
 .html_elegant-blog #top .socket_color .blog-categories a:hover {
-    color: #e7b8b8;
+    color: white;
 }
 .socket_color a:hover,
 .socket_color h1 a:hover,
@@ -1062,11 +1062,14 @@ html,
 .footer_color.avia-fullwidth-portfolio .pagination a,
 .footer_color .av-hotspot-fallback-tooltip-inner,
 .footer_color .av-hotspot-fallback-tooltip-count {
-    background-color: #ffffff;
-    color: #b0b0b0;
+    background-color: rgb(228, 154, 154);
+    color: black;
 }
 .footer_color .avia-fold-unfold-section .av-fold-unfold-container::after {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+}
+.copyright {
+    font-size: 13px;
 }
 .footer_color .avia-fold-unfold-section .av-fold-button-container:not(.avia-button),
 .footer_color.avia-fold-unfold-section .av-fold-button-container:not(.avia-button) {
@@ -1123,7 +1126,7 @@ html,
 .footer_color .av-default-style.av-countdown-timer.av-flip-numbers .card__bottom.card-time-color,
 .footer_color .av-default-style.av-countdown-timer.av-flip-numbers .card__back.card-time-color::before,
 .footer_color .av-default-style.av-countdown-timer.av-flip-clock .flip-clock__card .flip-clock-counter {
-    color: #000000;
+    color: white;
 }
 .footer_color .av-countdown-timer.av-events-countdown a .av-countdown-time-label {
     color: #b0b0b0;
@@ -1187,7 +1190,7 @@ html,
 #top .footer_color .av-no-color.av-icon-style-border a.av-icon-char,
 .html_elegant-blog #top .footer_color .blog-categories a,
 .html_elegant-blog #top .footer_color .blog-categories a:hover {
-    color: #e7b8b8;
+    color: white;
 }
 .footer_color a:hover,
 .footer_color h1 a:hover,
