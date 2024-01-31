@@ -511,7 +511,10 @@ input[type="submit"],
     cursor: pointer;
     border: none;
     -webkit-appearance: none;
-    border-radius: 0px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color:rgb(238, 204, 240);
 }
 
 /* #Icons
