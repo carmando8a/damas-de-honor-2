@@ -2832,8 +2832,8 @@ body .alternate_color .mejs-controls .mejs-time-rail .mejs-time-float-corner {
 .main_color .meta-color,
 .main_color .sidebar,
 .main_color .sidebar a,
-.main_color .minor-meta,
-.main_color .minor-meta a,
+/* .main_color .minor-meta,
+.main_color .minor-meta a, */
 .main_color .text-sep,
 .main_color blockquote,
 .main_color .post_nav a,
