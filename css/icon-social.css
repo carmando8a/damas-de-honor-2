@@ -4120,9 +4120,8 @@
     }
     .h-social-icons[data-v-278c6f40] {
         display: flex;
-        gap: 16px;
-        justify-content: flex-end;
-        margin: 24px 0;
+        gap: 30px;
+        justify-content: left;
     }
     .h-social-icons--icon[data-v-278c6f40] {
         align-items: center;

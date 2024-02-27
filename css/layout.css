@@ -3159,7 +3159,7 @@ gets loaded
 ====================================================================================================================================================== */
 .widgettitle {
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     font-size: 16px;
 }
@@ -3172,8 +3172,6 @@ gets loaded
 }
 
 #footer .widget {
-    padding: 0;
-    margin: 60px 0 30px 0;
     overflow: hidden;
 }
 
