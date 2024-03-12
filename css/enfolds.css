@@ -923,8 +923,8 @@ html,
 }
 #scroll-top-link,
 #av-cookie-consent-badge {
-    color: #b0b0b0;
-    border: 1px solid #ffffff;
+    color: #000000;
+    border: 1px solid #e6cdcd;
 }
 .footer_color,
 .footer_color div,
