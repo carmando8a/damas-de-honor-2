@@ -2873,7 +2873,7 @@ body .alternate_color .mejs-controls .mejs-time-rail .mejs-time-float-corner {
 .main_color .meta-heading .special-heading-inner-border {
     border-color: #919191;
 }
-.main_color a,
+
 .main_color .widget_first,
 .main_color strong,
 .main_color b,
@@ -2890,7 +2890,11 @@ body .alternate_color .mejs-controls .mejs-time-rail .mejs-time-float-corner {
 .html_elegant-blog #top .main_color .blog-categories a:hover {
     color: #e7b8b8;
 }
-.main_color a:hover,
+.main_color a {
+  color: #542982;
+  font-weight: 600;
+}
+
 .main_color h1 a:hover,
 .main_color h2 a:hover,
 .main_color h3 a:hover,
@@ -2900,6 +2904,9 @@ body .alternate_color .mejs-controls .mejs-time-rail .mejs-time-float-corner {
 .main_color .template-search a.news-content:hover,
 .main_color .wp-playlist-item .wp-playlist-caption:hover {
     color: #a5d1d6;
+}
+.main_color a:hover {
+   color: blueviolet;
 }
 .main_color .primary-background,
 .main_color .primary-background a,

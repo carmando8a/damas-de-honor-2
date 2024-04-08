@@ -218,6 +218,11 @@ div .single-big .pagination{
 
 /*previe pic*/
 
+
+.img-pointer {
+	pointer-events: none;
+}
+
 .big-preview{
 	display:block;
 	padding:0 50px 10px 131px;
@@ -555,7 +560,7 @@ div .single-big .pagination{
 
 .html_elegant-blog #top .post-entry .post-title:hover,
 .html_elegant-blog .avia-content-slider .slide-entry-title:hover{
-	opacity: 0.7;
+	opacity: 1.5;
 }
 
 .html_elegant-blog #top .post-entry .post-meta-infos,
@@ -616,9 +621,7 @@ div .single-big .pagination{
 	clear: both;
 	width:250px;
 	border:none;
-	border-style: solid;
 	border-width:2px;
-	padding: 10px 0;
 	border-radius: 2px;
 }
 
@@ -647,7 +650,7 @@ div .single-big .pagination{
 .html_elegant-blog .av-share-link-description,
 .html_elegant-blog .related_title{
 	display: block;
-	text-align: center;
+	text-align: left;
 }
 
 .html_elegant-blog #top .big-preview{
