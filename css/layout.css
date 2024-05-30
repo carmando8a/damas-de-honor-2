@@ -342,7 +342,7 @@
 #header_main {
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    z-index: 1;
+    background: linear-gradient(90deg, #e7b8b8, #f3ebeb) !important;
 }
 
 #header.shadow {

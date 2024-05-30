@@ -4000,6 +4000,8 @@ div .header_color .button,
 .header_color .av-subnav-menu a {
     background-color: #ffffff;
     color: #c9c9c9;
+    -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
 }
 .header_color .main_menu .menu ul li a:hover,
 .header_color .main_menu .menu ul li a:focus,
