@@ -185,6 +185,7 @@
 .green-text {
   color: var(--green-text-color) !important;
   font-size: 25px;
+  text-align: center;
 }
 
 .green-background {

@@ -66,6 +66,7 @@ body .av-special-heading.av-6jmkue-23aa6b3198cffd85324a685cddb36116 .av-special-
 
 #top .av-special-heading.av-iz9dq-cbff8036774e1f4ce43bc8ca800b32b4 {
     padding-bottom: 10px;
+    text-align: center;
 }
 body .av-special-heading.av-iz9dq-cbff8036774e1f4ce43bc8ca800b32b4 .av-special-heading-tag .heading-char {
     font-size: 25px;
@@ -119,12 +120,11 @@ body .av-special-heading.av-3wv19a-9ba4a36dc47d019fba7d1cbae982f85b .av-special-
 }
 
 .avia-section.av-3jy226-2583218d204f11f58d44ba3c699190d2 {
-    background-color: #e6cdcd;
-    background-image: url();
+    background: radial-gradient(#fff, #ffd6d6);
     background-repeat: no-repeat;
     background-position: 0% 50%;
     background-attachment: scroll;
-    padding: 35px;
+    padding: 45px;
     line-height: 3.5em;
 }
 
